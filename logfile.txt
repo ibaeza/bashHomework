@@ -1,0 +1,8 @@
+hello team
+hello bash
+hey python
+hello ignacio
+hello world
+hello js
+shopify
+bye
